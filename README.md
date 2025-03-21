@@ -4,6 +4,6 @@
 
 [Live demo](https://l-n-slider-css.netlify.app/)
 
-[Live demo](https://lenam-winter.github.io/css-/)
+[Live in github](https://lenam-winter.github.io/css-/)
 
 
