@@ -2,6 +2,8 @@
 
 ![Review](./images/slider.png)
 
-[Live demo](l-n-slider-css.netlify.app)
+[Live demo](https://l-n-slider-css.netlify.app/)
+
+[Live demo](https://lenam-winter.github.io/css-/)
 
 
